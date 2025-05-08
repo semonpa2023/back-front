@@ -1,0 +1,7 @@
+.fondo{
+    background-image: url("../../../src/assets/JULIAN-LOPEZ.webp");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}

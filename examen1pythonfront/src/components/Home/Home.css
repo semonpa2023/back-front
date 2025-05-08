@@ -1,0 +1,7 @@
+.banner{
+    background-image: url("../../../src/assets/fondo.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+}
